@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\633303b52b75ebf78046d4591ad4fd5b2dc00e95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_dd365179d65692eadf98b5f1863b3c2764abd810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\826623820b781b73005761adc068ec293fad9d93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_dd6d212b1b41fa8531ac7c4efe3b7cd06a069e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\57dbf0c14a2ac3ee243fcd5f8a02e201900bd317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_ea94e5c153fec67077353ebb3968db475e5512f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\edc9f83f552f8f6a41cfa3b89f182fd85fd53512\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_d23fc9a29c1eaaec2c6d75a1f01813f7a0156a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\f952a3e4442ae911eb7b880ef8fbb9cf34fa78e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_0c1c20f2afb4c93a36051c703fee249d26bb569f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\bbd3ffb28f682a0787a86598b430eaa2c9713adf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_9068fad6fb2fcd16a0f1c7396d02c3fa3e2c8c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\a4273b8286d4ae8056ccd30b83870399ed19e621\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_acea98c0d0386ce16d6592e34249f9514b93789c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_7f38ebb8b56f51d24063e57e71e6b7211783e248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\f016ccba2c9da6c688af26552b1a0a368284bbc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_cb84507d47becad7285f2208259d99b54a875588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\d94c75455569fc78220198e92ec4506c3e89b7e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_c19fcb2221f2b86f392ef312dc1bf5bbc6caea68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\2546079bb58b568abf7cfcedb545c1632e50b955\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_e46fff7c5bea7030551817cd4aedea1c5b036a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\.android\build-cache\4fe7b03927fb62ea4232bb1e06cbbca58faf484f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\classes_cf672af142cfd4b7b4c3e3e8afdfa0be87fcdd95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\slash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Projects\BIT-Bus\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_b64eb3c29205e5de7dd92c3659ddd9a62d7a1a3e.jar" />
+    </item>
+
+</items>

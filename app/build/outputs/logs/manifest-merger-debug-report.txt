@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\192aa99a8e6ec4c3866c2cb4dffa5aba\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\27ecc47aa5e8969a8a03b9208d063c69\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5d2de11c8b56d7bee1fd90a7f4e3ca35\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\689e732a8cb17df4a6426dad0cfbbe9d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\de7ac8e53fe21dee9c77d3eb04f582db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fc73659109301526e596da020fd9d8f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5022619a48bae38f56f543101fd0d322\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\8006c223d16f56265f896fed50e6d5b0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\40cae925375fe7a2dab3688218198d77\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\ab59b1bba3cd70bd32043d8573b7f088\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\dc57bac2826aceb14e6e46101935a9c8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\25b23169b02ba5f0d008cbe5561923b7\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:9:5-30:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\192aa99a8e6ec4c3866c2cb4dffa5aba\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\192aa99a8e6ec4c3866c2cb4dffa5aba\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\27ecc47aa5e8969a8a03b9208d063c69\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\27ecc47aa5e8969a8a03b9208d063c69\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5d2de11c8b56d7bee1fd90a7f4e3ca35\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5d2de11c8b56d7bee1fd90a7f4e3ca35\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\689e732a8cb17df4a6426dad0cfbbe9d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\689e732a8cb17df4a6426dad0cfbbe9d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fc73659109301526e596da020fd9d8f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fc73659109301526e596da020fd9d8f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5022619a48bae38f56f543101fd0d322\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5022619a48bae38f56f543101fd0d322\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\8006c223d16f56265f896fed50e6d5b0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\8006c223d16f56265f896fed50e6d5b0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\40cae925375fe7a2dab3688218198d77\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\40cae925375fe7a2dab3688218198d77\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\ab59b1bba3cd70bd32043d8573b7f088\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\ab59b1bba3cd70bd32043d8573b7f088\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\dc57bac2826aceb14e6e46101935a9c8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\dc57bac2826aceb14e6e46101935a9c8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\25b23169b02ba5f0d008cbe5561923b7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\25b23169b02ba5f0d008cbe5561923b7\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.bit_bus.gaurav.bit_bus.MainActivity
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:16:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.bit_bus.gaurav.bit_bus.Developer
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:25:9-73
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:25:19-70
+activity#com.bit_bus.gaurav.bit_bus.Schedule
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:26:9-72
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:26:19-69
+activity#com.bit_bus.gaurav.bit_bus.Auto
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:27:9-68
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:27:19-65
+activity#com.bit_bus.gaurav.bit_bus.DepoContacts
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:28:9-76
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:28:19-73
+activity#com.bit_bus.gaurav.bit_bus.ScheduleRanchi
+ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml:29:19-75
+uses-sdk
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\192aa99a8e6ec4c3866c2cb4dffa5aba\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\192aa99a8e6ec4c3866c2cb4dffa5aba\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\27ecc47aa5e8969a8a03b9208d063c69\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\27ecc47aa5e8969a8a03b9208d063c69\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5d2de11c8b56d7bee1fd90a7f4e3ca35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5d2de11c8b56d7bee1fd90a7f4e3ca35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\689e732a8cb17df4a6426dad0cfbbe9d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\689e732a8cb17df4a6426dad0cfbbe9d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\de7ac8e53fe21dee9c77d3eb04f582db\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\de7ac8e53fe21dee9c77d3eb04f582db\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fc73659109301526e596da020fd9d8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fc73659109301526e596da020fd9d8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5022619a48bae38f56f543101fd0d322\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5022619a48bae38f56f543101fd0d322\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\8006c223d16f56265f896fed50e6d5b0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\8006c223d16f56265f896fed50e6d5b0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\40cae925375fe7a2dab3688218198d77\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\40cae925375fe7a2dab3688218198d77\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\ab59b1bba3cd70bd32043d8573b7f088\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\ab59b1bba3cd70bd32043d8573b7f088\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\dc57bac2826aceb14e6e46101935a9c8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\dc57bac2826aceb14e6e46101935a9c8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\25b23169b02ba5f0d008cbe5561923b7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\25b23169b02ba5f0d008cbe5561923b7\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\slash\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\192aa99a8e6ec4c3866c2cb4dffa5aba\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\BIT-Bus\app\src\main\AndroidManifest.xml

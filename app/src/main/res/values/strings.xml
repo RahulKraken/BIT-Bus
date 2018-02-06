@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BIT-Bus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_exit">Exit</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="Location">
+        <item>From BIT</item>
+        <item>From Ranchi</item>
+    </string-array>
+    <string-array name="Bus">
+        <item>Student Bus</item>
+        <item>Staff Bus</item>
+    </string-array>
+</resources>

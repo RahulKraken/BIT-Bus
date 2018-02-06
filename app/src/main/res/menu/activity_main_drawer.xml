@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bus_chart"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="Bus Chart" />
+        <item
+            android:id="@+id/next_bus"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="From BIT" />
+        <item
+            android:id="@+id/next_bus_rnc"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="From Ranchi" />
+        <item
+            android:id="@+id/call_auto"
+            android:icon="@drawable/ic3"
+            android:title="Call an Auto" />
+        <item
+            android:id="@+id/bus_contact"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Bus Depo Contacts" />
+        <item
+            android:id="@+id/bus_online"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Check Online" />
+        <item
+            android:id="@+id/about_app"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="About" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

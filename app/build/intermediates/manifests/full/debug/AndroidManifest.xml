@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bit_bus.gaurav.bit_bus"
+    android:versionCode="12"
+    android:versionName="3.2" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon_main"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.bit_bus.gaurav.bit_bus.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bit_bus.gaurav.bit_bus.Developer" />
+        <activity android:name="com.bit_bus.gaurav.bit_bus.Schedule" />
+        <activity android:name="com.bit_bus.gaurav.bit_bus.Auto" />
+        <activity android:name="com.bit_bus.gaurav.bit_bus.DepoContacts" />
+        <activity android:name="com.bit_bus.gaurav.bit_bus.ScheduleRanchi" />
+    </application>
+
+</manifest>

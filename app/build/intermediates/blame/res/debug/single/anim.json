@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\c52bfaa6e0e3f1351b6a68d083b3a0928a8cc87f\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\BIT-Bus\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\slash\\.android\\build-cache\\633303b52b75ebf78046d4591ad4fd5b2dc00e95\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
